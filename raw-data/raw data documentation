@@ -1,1 +1,17 @@
-The raw data files uploaded in the folder came from the following sources:
+Code Descriptions
+
+Dimension	              Code	        Description	
+Mode of transportation	AIR	          Air transport	
+Mode of transportation	IWW	          Inland waterway transport	
+Mode of transportation	RAI	          Rail transport	
+Mode of transportation	ROA	          Road transport	
+Nature	                C	            Country data	
+Nature	                E	            Estimated data	
+Nature	                G	            Global monitoring data	
+Nature	                M	            Modeled data	
+Nature	                NA	          Data nature not available	
+Reporting Type	        G	            Global	
+Units	                  PER_100_POP	  Per 100 population	
+Units	                  PERCENT	      Percentage	
+Units	                  T_KM	        Tonne kilometres	
+
