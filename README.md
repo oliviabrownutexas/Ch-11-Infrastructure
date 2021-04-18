@@ -14,7 +14,7 @@ SDG Metadata Repository - https://unstats.un.org/sdgs/metadata/
 ITU Data Queries - https://www.itu.int/net4/ITU-D/icteye#/query
   * ICT - Proportion of population covered by a mobile network, aggregate
 
-UN Habitat Open Data - https://www.itu.int/net4/ITU-D/icteye#/query
+UN Habitat Open Data - https://data.unhabitat.org/ 
   * Housing - Basic Services Urban Indicators
   * Transport - 11.2.1 - Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities
 
