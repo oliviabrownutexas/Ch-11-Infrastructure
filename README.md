@@ -18,4 +18,6 @@ UN Habitat Open Data - https://data.unhabitat.org/
   * Housing - Basic Services Urban Indicators
   * Transport - 11.2.1 - Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities
 
+M49 Codes - https://unstats.un.org/unsd/methodology/m49/ 
+
 Download: April 14, 2021
