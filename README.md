@@ -15,7 +15,7 @@ ITU Data Queries - https://www.itu.int/net4/ITU-D/icteye#/query
   * ICT - Proportion of population covered by a mobile network, aggregate
 
 UN Habitat Open Data - https://data.unhabitat.org/ 
-  * Housing - Basic Services Urban Indicators
+  * Housing - Basic Services Urban Indicators (Sufficient Living Area)
   * Transport - 11.2.1 - Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities
 
 M49 Codes - https://unstats.un.org/unsd/methodology/m49/ 
