@@ -42,4 +42,4 @@ Download: April 2021
 *See LICENSE doc for details.* 
 
 ## Acknowledgements
-Thank you to our colleagues in the [LBJ School](https://lbj.utexas.edu/)'s Data for Development PRP and our leaders: [Dr. Catherine Weaver](https://lbj.utexas.edu/weaver-catherine), [Dr. Ji Ma](https://lbj.utexas.edu/ma-ji), and Janet McClaren.
+Thank you to our colleagues in the [LBJ School](https://lbj.utexas.edu/)'s Data for Development PRP and our leaders: [Dr. Catherine Weaver](https://lbj.utexas.edu/weaver-catherine), [Dr. Ji Ma](https://lbj.utexas.edu/ma-ji), and Janet McLaren.
